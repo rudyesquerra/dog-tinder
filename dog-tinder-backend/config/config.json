@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rudy",
+    "password": null,
+    "database": "dog-tinder-development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rudy",
+    "password": null,
+    "database": "dog-tinder-development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "null",
+    "password": null,
+    "database": "dog-tinder-development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
